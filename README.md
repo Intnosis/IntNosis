@@ -28,9 +28,7 @@
 </p>
 
 <br/>
-
-<!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-88f4-105fc7b50039.png" width="100%">
+<hr />
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -77,9 +75,7 @@
 </table>
 
 <br/>
-
-<!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-88f4-105fc7b50039.png" width="100%">
+<hr />
 
 <h2 align="center">🐍 Contribution Activity</h2>
 
