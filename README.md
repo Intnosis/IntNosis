@@ -45,7 +45,6 @@
       <h3>Database</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><br/>
       <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
     </td>
     <td valign="top" width="20%" align="center">
       <h3>AI & ML</h3>
