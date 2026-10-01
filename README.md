@@ -1,11 +1,11 @@
-<h1 align="center">Your Name</h1>
+<h1 align="center">Ma. Cristina Sison</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer • Machine Learning & Computer Vision Enthusiast</b>
+  <b>DevOps • Quality Assurance • Backend Web Developer • Machine Learning & Deep Learning</b>
 </p>
 
 <p align="center">
-  I build modern web applications and work on AI/computer vision projects. Always exploring new tools and frameworks to expand my software development skills.
+  I build modern web applications and work on AI/deep learning. Always exploring new tools and frameworks to expand my software development skills.
 </p>
 
 <!-- Language Badges -->
