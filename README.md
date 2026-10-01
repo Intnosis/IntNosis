@@ -71,6 +71,12 @@
   </tr>
 </table>
 
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Intnosis/Intnosis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## GitHub Activity
 
 <p align="center">
