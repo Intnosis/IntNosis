@@ -37,7 +37,8 @@
     <td valign="top" width="20%" align="center">
       <h3>Backend</h3>
       <img src="https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=FF2D20" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /><br/>
+     <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB" />
+      <br/>
       <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4" />
     </td>
